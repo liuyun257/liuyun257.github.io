@@ -1,0 +1,1 @@
+现在就基本上可以使用了，每次增加了新文件就先add，然后commit，如果只是改了文件的内容，只执行commit就行了，当然最后一步都是要执行push，git push git@github.com:liuyun257/liuyun257.github.io.git把所以改变推送到我们的github上去托管。

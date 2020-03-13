@@ -1,1 +1,1 @@
-﻿田田阅读器&1.1&改变标题，更容易了解阅读进度。&https://liuyun257.github.io/ttreader.apk
+﻿田田阅读器&1.2&改变章节的显示方式，更容易了解阅读进度在章节中的显示。&https://liuyun257.github.io/ttreader.apk

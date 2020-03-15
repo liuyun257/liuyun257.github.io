@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<result>
 <item
 q="田田阅读器如何翻到下一页？">
 <answer>点击屏幕右边</answer>
@@ -67,3 +68,4 @@ q="田田阅读器的朗读功能需要语音引擎的支持，安卓系统中�
 <answer>安卓7.0。</answer>
 <answer>安卓8.0。</answer>
 </item>
+</result>

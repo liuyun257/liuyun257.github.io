@@ -1,1 +1,1 @@
-﻿田田阅读器&1.2&改变章节的显示方式，更容易了解阅读进度在章节中的显示。&https://liuyun257.github.io/ttreader.apk
+﻿田田阅读器&1.3&添加学习功能，更好使用阅读器。&https://liuyun257.github.io/ttreader.apk&后面是xml数据的配置，可以配置无限个&xmltest&1.0&测验使用的XML&https://liuyun257.github.io/readtest.xml

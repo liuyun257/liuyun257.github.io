@@ -1,1 +1,1 @@
-﻿田田阅读器&1.3&添加学习功能，更好使用阅读器。&https://liuyun257.github.io/ttreader.apk&后面是xml数据的配置，可以配置无限个&xmltest&1.4&测验使用的XML&https://liuyun257.github.io/readtest.xml
+﻿田田阅读器&1.3&添加学习功能，更好使用阅读器。&https://liuyun257.github.io/ttreader.apk&后面是xml数据的配置，可以配置无限个&xmltest&1.5&测验使用的XML&https://liuyun257.github.io/readtest.xml

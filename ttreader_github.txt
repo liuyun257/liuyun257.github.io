@@ -1,1 +1,1 @@
-﻿田田阅读器&1.5&添加录音保存功能，可以利用文字制作录音文件在别处播放。&https://liuyun257.github.io/ttreader.apk&后面是xml数据的配置，可以配置无限个&xmltest&1.7&测验使用的XML&https://liuyun257.github.io/readtest.xml
+﻿田田阅读器&1.6&添加录音保存功能，可以利用文字制作录音文件在别处播放。&https://liuyun257.github.io/ttreader.apk&后面是xml数据的配置，可以配置无限个&xmltest&1.7&测验使用的XML&https://liuyun257.github.io/readtest.xml

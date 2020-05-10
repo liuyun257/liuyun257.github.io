@@ -1,37 +1,12 @@
 ## 田田阅读器
 
-You can use the [editor on GitHub](https://github.com/liuyun257/liuyun257.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[下载地址](https://liuyun257.github.io/release/ttreader.apk) 
+一个有声音的TXT文本阅读器。能方便朗读，支持23种字体，支持本地文件阅读，操作非常方便和快捷。还可输入文字转换成语音保存下来。可以改变各种字体颜色和背景颜色。进入后台阅读时会关闭前台ACTIVITY，尽量少占用内存。支持沉浸式阅读。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 友情链接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[绿色软件站](http://www.downcc.com/)
+### 支持和联系
 
-```markdown
-Syntax highlighted code block
-
-# 个人信息
-## 吃喝玩乐
-### 长江以南
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuyun257/liuyun257.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+邮箱：liuyun257@hotmail.com

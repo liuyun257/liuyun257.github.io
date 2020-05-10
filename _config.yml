@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+title: 田田阅读器                    #你博客的标题
+SEOTitle: 田田阅读器 | 安卓有声阅读器        #显示在浏览器上搜索的时候显示的标题
+description: "田田阅读器的主页"              #网站介绍
+keyword: "阅读器, 安卓阅读器" #关键词
+url: "https://liuyun257.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
